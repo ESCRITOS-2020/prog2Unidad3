@@ -1,4 +1,4 @@
-public class Main {
+public class PruebaVehiculo {
 
 	public static void main(String[] args) {
 		Gama objC=new Gama(new Alfa(1,2),3);		
